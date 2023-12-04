@@ -5,7 +5,7 @@ comemierda= "sinonimo"
 
 #fjsjdjfs
 if x<10000 and x>4000:
-    print("pos si jajja ")
+    print("pos si jajjfsfsdfs ")
 elif x<10000:
 
     print ("me cago jaja ")
